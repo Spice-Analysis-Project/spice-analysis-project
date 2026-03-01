@@ -1,6 +1,6 @@
-# Data Mining Final Project: Classifying Cuisines by Spices 🌶️  
+# Data Mining Project: Classifying Cuisines by Spices 🌶️  
 
-This repository contains the full codebase and analysis for our final project.  
+This repository contains the full codebase and analysis for our project.  
 
 **🔗 [Read our Full Analysis Report Here](Spice_Analysis_Writeup.pdf)**
 
@@ -41,3 +41,4 @@ The project follows a structured pipeline:
 * **Libraries:** Pandas, NumPy, Scikit-learn
 * **Visualization:** Matplotlib, Seaborn, NetworkX
 * **Data Sources:** FAOSTAT, AllRecipes.com
+
