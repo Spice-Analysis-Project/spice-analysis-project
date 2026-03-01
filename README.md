@@ -36,9 +36,23 @@ The project follows a structured pipeline:
 5. **models.ipynb**
    Trains and evaluates ML models (Logistic Regression, Random Forest) for cuisine classification, including performance metrics and visualizations.
 
+---
+
+## Data
+All data files used for exploration, training, and evaluation are organized in the `data/` directory.
+* **`spices_map.json`**: A dictionary mapping spices to their alternative names and synonyms used for filtering.
+* **`recipes_ingredients.csv`**: Containing recipes scraped from *AllRecipes* with their complete list of ingredients.
+* **`recipes_spices.csv`**: A processed dataset containing only the identified spices for each recipe.
+
+Machine Learning Data (located in `data/models/`)
+* **`train_with_labels.csv`**: The dataset used to train the classification models.
+* **`test_with_labels.csv`**: The labeled test set used to evaluate final model performance.
+* **`test_no_labels.csv`**: A version of the test set without labels for prediction testing.
+
+---
+
 ## Technologies Used
 * **Languages:** Python (Jupyter Notebooks)
 * **Libraries:** Pandas, NumPy, Scikit-learn
 * **Visualization:** Matplotlib, Seaborn, NetworkX
 * **Data Sources:** FAOSTAT, AllRecipes.com
-
