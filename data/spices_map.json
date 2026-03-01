@@ -1,0 +1,793 @@
+{
+  "black mustard": [
+    "black mustard",
+    "black mustard powder",
+    "ground black mustard"
+  ],
+  "black mustard seeds": [
+    "black mustard seed",
+    "black mustard seeds"
+  ],
+  "yellow mustard": [
+    "mustard",
+    "yellow mustard",
+    "yellow mustard powder",
+    "ground yellow mustard"
+  ],
+  "yellow mustard seeds": [
+    "yellow mustard seed",
+    "yellow mustard seeds"
+  ],
+  "black peppercorns": [
+    "black pepper cooked peppercorns",
+    "black peppercorns",
+    "peppercorns"
+  ],
+  "black pepper": [
+    "black pepper",
+    "black pepper powder",
+    "ground black pepper"
+  ],
+  "white pepper": [
+    "white pepper"
+  ],
+  "onion powder": [
+    "onion powder"
+  ],
+  "anise": [
+    "anise",
+    "aniseed",
+    "anix"
+  ],
+  "alligator pepper": [
+    "alligator pepper",
+    "hepper pepper",
+    "mbongo spice",
+    "ose oji",
+    "alligator pepper powder",
+    "ground alligator pepper",
+    "ground hepper pepper",
+    "ground mbongo spice",
+    "ground ose oji",
+    "hepper pepper powder",
+    "mbongo spice powder",
+    "ose oji powder"
+  ],
+  "grains of paradise": [
+    "fom wisa",
+    "grains of paradise",
+    "guinea grains",
+    "melegueta pepper",
+    "ossame"
+  ],
+  "grains of paradise seeds": [
+    "fom wisa seed",
+    "fom wisa seeds",
+    "grains of paradise seed",
+    "grains of paradise seeds",
+    "guinea grains seed",
+    "guinea grains seeds",
+    "melegueta pepper seed",
+    "melegueta pepper seeds",
+    "ossame seed",
+    "ossame seeds"
+  ],
+  "japanese pepper": [
+    "chopi",
+    "chopi fruits",
+    "japanese pepper",
+    "japanese pepper fruits",
+    "japanese prickly-ash",
+    "japanese prickly-ash fruits",
+    "sanshō",
+    "sanshō fruits",
+    "chopi powder",
+    "ground chopi",
+    "ground japanese pepper",
+    "ground japanese prickly-ash",
+    "ground sanshō",
+    "japanese pepper powder",
+    "japanese prickly-ash powder",
+    "sanshō powder"
+  ],
+  "poppy seed": [
+    "poppy seed",
+    "ground poppy seed"
+  ],
+  "garlic powder": [
+    "garlic powder",
+    "ground garlic"
+  ],
+  "sichuan pepper": [
+    "chinese pepper",
+    "chinese prickly ash",
+    "mala pepper",
+    "mountain pepper",
+    "sichuan pepper",
+    "szechuan pepper",
+    "szechwan pepper",
+    "chinese pepper powder",
+    "chinese prickly ash powder",
+    "ground chinese pepper",
+    "ground chinese prickly ash",
+    "ground mala pepper",
+    "ground mountain pepper",
+    "ground sichuan pepper",
+    "ground szechuan pepper",
+    "ground szechwan pepper",
+    "mala pepper powder",
+    "mountain pepper powder",
+    "sichuan pepper powder",
+    "szechuan pepper powder",
+    "szechwan pepper powder"
+  ],
+  "dried sichuan pepper": [
+    "dried chinese pepper",
+    "dried chinese prickly ash",
+    "dried mala pepper",
+    "dried mountain pepper",
+    "dried sichuan pepper",
+    "dried szechuan pepper",
+    "dried szechwan pepper"
+  ],
+  "allspice": [
+    "allspice",
+    "jamaica pepper",
+    "myrtle pepper",
+    "pimenta",
+    "pimento",
+    "allspice powder",
+    "ground allspice",
+    "ground jamaica pepper",
+    "ground myrtle pepper",
+    "ground pimenta",
+    "ground pimento",
+    "jamaica pepper powder",
+    "myrtle pepper powder",
+    "pimenta powder",
+    "pimento powder"
+  ],
+  "amchoor": [
+    "aamchur",
+    "aamchur unripe mango",
+    "amchoor",
+    "amchoor unripe mango",
+    "amchur",
+    "amchur unripe mango",
+    "mango powder",
+    "mango powder unripe mango",
+    "aamchur powder",
+    "amchoor powder",
+    "amchur powder",
+    "ground aamchur",
+    "ground amchoor",
+    "ground amchur"
+  ],
+  "star anise": [
+    "badian",
+    "chinese star anise",
+    "star anise",
+    "star anise seed",
+    "star aniseed",
+    "star of anise",
+    "dried star anise",
+    "dried star anise seed",
+    "dried star of anise",
+    "badian powder",
+    "chinese star anise powder",
+    "ground badian",
+    "ground chinese star anise",
+    "ground star anise",
+    "ground star anise seed",
+    "ground star aniseed",
+    "ground star of anise",
+    "star anise powder",
+    "star anise seed powder",
+    "star aniseed powder",
+    "star of anise powder"
+  ],
+  "asafoetida": [
+    "asafoetida",
+    "devil's dung",
+    "asafoetida powder",
+    "devil's dung powder",
+    "ground asafoetida",
+    "ground devil's dung"
+  ],
+  "ajwain": [
+    "ajowan caraway",
+    "ajwain",
+    "bishop's weed",
+    "carom",
+    "omam",
+    "thymol seeds"
+  ],
+  "ajwain powder": [
+    "ajowan caraway powder",
+    "ajwain powder",
+    "bishop's weed powder",
+    "carom powder",
+    "ground ajowan caraway",
+    "ground ajwain",
+    "ground bishop's weed",
+    "ground carom",
+    "ground omam",
+    "ground thymol seeds",
+    "omam powder",
+    "thymol seeds powder"
+  ],
+  "brazilian pepper": [
+    "aroeira",
+    "brazilian pepper",
+    "brazilian peppertree",
+    "broadleaved pepper tree",
+    "rose pepper",
+    "wilelaiki (or wililaiki)"
+  ],
+  "camphor": [
+    "camphor",
+    "camphor laurel"
+  ],
+  "caraway": [
+    "caraway",
+    "caraway whole",
+    "meridian fennel",
+    "meridian fennel whole",
+    "persian cumin",
+    "persian cumin whole",
+    "caraway seeds"
+  ],
+  "caraway powder": [
+    "caraway powder",
+    "ground caraway",
+    "ground meridian fennel",
+    "ground persian cumin",
+    "meridian fennel powder",
+    "persian cumin powder"
+  ],
+  "cardamom": [
+    "cardamom",
+    "cardamon",
+    "cardamum",
+    "cardamom seed",
+    "cardamom seeds",
+    "cardamon seed",
+    "cardamon seeds",
+    "cardamum seed",
+    "cardamum seeds",
+    "cardamom powder",
+    "cardamon powder",
+    "cardamum powder",
+    "ground cardamom",
+    "ground cardamon",
+    "ground cardamum"
+  ],
+  "cassia": [
+    "cassia",
+    "cassia stick",
+    "chinese cassia",
+    "chinese cassia stick",
+    "chinese cinnamon",
+    "chinese cinnamon stick",
+    "cinnamomum cassia",
+    "cinnamomum cassia stick",
+    "cassia cinnamon"
+  ],
+  "celery": [
+    "celery",
+    "dried celery",
+    "celery powder",
+    "ground celery"
+  ],
+  "celery seeds": [
+    "celery seed",
+    "celery seeds"
+  ],
+  "charoli": [
+    "almondette",
+    "calumpong",
+    "charoli",
+    "charoli nut",
+    "cuddapah almond",
+    "hamilton mombin",
+    "charoli seeds",
+    "almondette seed",
+    "almondette seeds",
+    "calumpong seed",
+    "calumpong seeds",
+    "charoli nut seed",
+    "charoli nut seeds",
+    "charoli seed",
+    "charoli seeds",
+    "cuddapah almond seed",
+    "cuddapah almond seeds",
+    "hamilton mombin seed",
+    "hamilton mombin seeds"
+  ],
+  "charoli powder": [
+    "almondette powder",
+    "calumpong powder",
+    "charoli nut powder",
+    "charoli powder",
+    "cuddapah almond powder",
+    "ground almondette",
+    "ground calumpong",
+    "ground charoli",
+    "ground charoli nut",
+    "ground cuddapah almond",
+    "ground hamilton mombin",
+    "hamilton mombin powder"
+  ],
+  "chenpi": [
+    "chen pi",
+    "chenpi",
+    "chimpi",
+    "dried chenpi",
+    "dried chen pi",
+    "dried chenpi",
+    "dried chimpi"
+  ],
+  "dried chili": [
+    "dried chili",
+    "dried chile",
+    "dried chili",
+    "dried chilli",
+    "dried red chile peppers",
+    "dried chile peppers"
+  ],
+  "chili powder": [
+    "chile powder",
+    "chili powder",
+    "chilli powder",
+    "ground chile",
+    "ground chili",
+    "ground chilli",
+    "chile peppers powder",
+    "chile peppers powder"
+  ],
+  "chili flakes": [
+    "chili flakes"
+  ],
+  "ancho chili pepper": [
+    "ancho powder",
+    "ancho chile pepper",
+    "ancho chili ground pepper",
+    "ancho chile powder"
+  ],
+  "sumac": [
+    "sumac",
+    "sumac powder",
+    "ground sumac"
+  ],
+  "cinnamon": [
+    "cinnamon",
+    "cinnamon powder",
+    "ground cinnamon"
+  ],
+  "clove": [
+    "clove",
+    "dried clove"
+  ],
+  "coriander": [
+    "cilantro",
+    "coriander",
+    "dhaniya",
+    "dried coriander",
+    "dried cilantro",
+    "dried dhaniya",
+    "cilantro powder",
+    "coriander powder",
+    "dhaniya powder",
+    "ground cilantro",
+    "ground coriander",
+    "ground dhaniya"
+  ],
+  "coriander seeds": [
+    "cilantro seeds",
+    "coriander seeds",
+    "dhaniya seeds",
+    "cilantro seed",
+    "coriander seed",
+    "dhaniya seed"
+  ],
+  "parsley": [
+    "parsley",
+    "dried parsley",
+    "parsley powder",
+    "ground parsley"
+  ],
+  "parsley seeds": [
+    "parsley seeds",
+    "parsley seed"
+  ],
+  "cubeb": [
+    "cubeb",
+    "piper cubeba",
+    "tailed pepper",
+    "cubeb seeds"
+  ],
+  "cubeb powder": [
+    "cubeb powder",
+    "ground cubeb",
+    "ground piper cubeba",
+    "ground tailed pepper",
+    "piper cubeba powder",
+    "tailed pepper powder"
+  ],
+  "cumin": [
+    "cumin",
+    "cumin powder",
+    "cumin powder",
+    "ground cumin"
+  ],
+  "black cumin powder": [
+    "black caraway powder",
+    "black cumin powder",
+    "charnushka powder",
+    "ground black caraway",
+    "ground black cumin",
+    "ground charnushka",
+    "ground kalonji",
+    "ground nigella",
+    "kalonji powder",
+    "nigella powder"
+  ],
+  "black cumin seeds": [
+    "black caraway seed",
+    "black caraway seeds",
+    "black cumin seed",
+    "black cumin seeds",
+    "charnushka seed",
+    "charnushka seeds",
+    "kalonji seed",
+    "kalonji seeds",
+    "nigella seed",
+    "nigella seeds"
+  ],
+  "black caraway": [
+    "black caraway",
+    "black cumin",
+    "blackseed",
+    "dried black caraway",
+    "dried black cumin",
+    "dried blackseed"
+  ],
+  "dill": [
+    "dill",
+    "dill poweder",
+    "dried dill"
+  ],
+  "dill seeds": [
+    "dill seeds",
+    "dill seed"
+  ],
+  "fenugreek": [
+    "fenugreek",
+    "fenugreek powder",
+    "fenugreek powder",
+    "ground fenugreek",
+    "fenugreek seeds",
+    "fenugreek seed"
+  ],
+  "fingerroot": [
+    "chinese ginger",
+    "chinese keys",
+    "fingerroot",
+    "lesser galangal"
+  ],
+  "ginger": [
+    "ginger",
+    "ginger rhizome",
+    "ginger powder",
+    "ginger powder",
+    "ground ginger"
+  ],
+  "grains of selim": [
+    "ethiopian pepper",
+    "ethiopian pepper crushed pods (fruit)",
+    "ethiopian pepper paste from smoked crushed pods",
+    "grains of selim",
+    "grains of selim crushed pods (fruit)",
+    "grains of selim paste from smoked crushed pods",
+    "moor pepper",
+    "moor pepper crushed pods (fruit)",
+    "moor pepper paste from smoked crushed pods",
+    "negro pepper",
+    "negro pepper crushed pods (fruit)",
+    "negro pepper paste from smoked crushed pods",
+    "senegal pepper",
+    "senegal pepper crushed pods (fruit)",
+    "senegal pepper paste from smoked crushed pods"
+  ],
+  "horseradish": [
+    "horseradish",
+    "horseradish crushed flesh",
+    "horseradish flesh"
+  ],
+  "kokum": [
+    "kokum",
+    "dried kokum"
+  ],
+  "dried lime": [
+    "black lime",
+    "black lime sliced",
+    "dried lime",
+    "dried lime sliced",
+    "limoo amani",
+    "limoo amani sliced",
+    "loomi",
+    "loomi sliced",
+    "noomi basra",
+    "noomi basra sliced"
+  ],
+  "dried lime powder": [
+    "black lime powder",
+    "dried lime powder",
+    "ground black lime",
+    "ground dried lime",
+    "ground limoo amani",
+    "ground loomi",
+    "ground noomi basra",
+    "limoo amani powder",
+    "loomi powder",
+    "noomi basra powder"
+  ],
+  "liquorice": [
+    "licorice",
+    "licorice root",
+    "liquorice",
+    "liquorice root"
+  ],
+  "mahleb": [
+    "mahleb",
+    "ground mahleb",
+    "mahleb powder",
+    "mahleb seed",
+    "mahleb seeds"
+  ],
+  "brown mustard": [
+    "brown mustard",
+    "chinese mustard",
+    "indian mustard",
+    "leaf mustard",
+    "oriental mustard",
+    "vegetable mustard",
+    "brown mustard powder",
+    "chinese mustard powder",
+    "ground brown mustard",
+    "ground chinese mustard",
+    "ground indian mustard",
+    "ground leaf mustard",
+    "ground oriental mustard",
+    "ground vegetable mustard",
+    "indian mustard powder",
+    "leaf mustard powder",
+    "oriental mustard powder",
+    "vegetable mustard powder"
+  ],
+  "brown mustard seeds": [
+    "brown mustard seed",
+    "brown mustard seeds",
+    "chinese mustard seed",
+    "chinese mustard seeds",
+    "indian mustard seed",
+    "indian mustard seeds",
+    "leaf mustard seed",
+    "leaf mustard seeds",
+    "oriental mustard seed",
+    "oriental mustard seeds",
+    "vegetable mustard seed",
+    "vegetable mustard seeds"
+  ],
+  "white mustard": [
+    "white mustard",
+    "ground white mustard",
+    "white mustard powder"
+  ],
+  "white mustard seeds": [
+    "white mustard seed",
+    "white mustard seeds"
+  ],
+  "nutmeg": [
+    "nutmeg",
+    "ground nutmeg",
+    "nutmeg powder"
+  ],
+  "paprika": [
+    "paprika",
+    "hot paprika",
+    "sweet paprika",
+    "ground paprika",
+    "paprika powder"
+  ],
+  "smoked paprika": [
+    "smoked paprika",
+    "hot smoked paprika"
+  ],
+  "saffron": [
+    "saffron",
+    "saffron stigma of flower",
+    "saffron threads"
+  ],
+  "sesame": [
+    "benne",
+    "gingelly",
+    "sesame",
+    "simsim",
+    "benne seed",
+    "benne seeds",
+    "gingelly seed",
+    "gingelly seeds",
+    "sesame seed",
+    "sesame seeds",
+    "simsim seed",
+    "simsim seeds"
+  ],
+  "sesame powder": [
+    "benne powder",
+    "gingelly powder",
+    "ground benne",
+    "ground gingelly",
+    "ground sesame",
+    "ground simsim",
+    "sesame powder",
+    "simsim powder"
+  ],
+  "shiso": [
+    "chinese basil",
+    "shiso",
+    "shiso leaves",
+    "dried chinese basil",
+    "dried shiso"
+  ],
+  "tamarind": [
+    "tamarind",
+    "tamarind paste",
+    "tamarind pulp of fruit"
+  ],
+  "turmeric": [
+    "turmeric",
+    "ground turmeric",
+    "turmeric powder"
+  ],
+  "vanilla": [
+    "vanilla",
+    "vanilla beans",
+    "vanilla extract",
+    "pure vanilla extract",
+    "vanilla whole pod"
+  ],
+  "vanilla powder": [
+    "ground vanilla",
+    "vanilla powder"
+  ],
+  "wasabi": [
+    "japanese horseradish",
+    "japanese horseradish rhizome",
+    "wasabi",
+    "wasabi rhizome",
+    "wasabi paste"
+  ],
+  "wasabi powder": [
+    "ground japanese horseradish",
+    "ground wasabi",
+    "japanese horseradish powder",
+    "wasabi powder"
+  ],
+  "juniper berry": [
+    "juniper berry",
+    "juniper berry crushed",
+    "juniper berries"
+  ],
+  "perilla": [
+    "perilla",
+    "deulkkae",
+    "korean perilla"
+  ],
+  "tonka bean": [
+    "tonka bean",
+    "tonka bean beans",
+    "tonkin beans",
+    "tonkin beans beans",
+    "tonquin beans",
+    "tonquin beans beans"
+  ],
+  "pomegranate seed": [
+    "anar dana",
+    "pomegranate seed",
+    "pomegranate seeds"
+  ],
+  "mango ginger": [
+    "mango ginger",
+    "mango ginger roots"
+  ],
+  "long pepper": [
+    "long pepper",
+    "long pepper poweder",
+    "pippali",
+    "pippali poweder",
+    "dried long pepper",
+    "dried pippali"
+  ],
+  "thyme": [
+    "thyme",
+    "dried thyme",
+    "ground thyme",
+    "thyme sprigs"
+  ],
+  "basil": [
+    "basil",
+    "dried basil"
+  ],
+  "thai basil": [
+    "thai basil"
+  ],
+  "bay leaf": [
+    "bay leaf",
+    "dried bay leaf"
+  ],
+  "cayenne pepper": [
+    "cayenne pepper"
+  ],
+  "marjoram": [
+    "marjoram"
+  ],
+  "oregano": [
+    "oregano",
+    "dried oregano"
+  ],
+  "parsley": [
+    "parsley",
+    "dried parsley"
+  ],
+  "red pepper flakes": [
+    "red pepper flakes"
+  ],
+  "rosemary": [
+    "rosemary",
+    "dried rosemary"
+  ],
+  "sage": [
+    "sage",
+    "dried sage"
+  ],
+  "lemongrass": [
+    "lemongrass"
+  ],
+  "file powder": [
+    "file powder"
+  ],
+  "mint": [
+    "mint",
+    "dried mint",
+    "dried mint flakes"
+  ],
+  "garam masala": [
+    "garam masala"
+  ],
+  "annatto": [
+    "annatto",
+    "annatto powder",
+    "annatto seeds"
+  ],
+  "pandan": [
+    "pandan",
+    "pandan extract",
+    "pandan essence"
+  ],
+  "fennel seeds": [
+    "fennel seeds",
+    "fennel seed"
+  ],
+  "tarragon": [
+    "tarragon",
+    "dried tarragon",
+    "dried tarragon leaves"
+  ],
+  "curry powder": [
+    "curry powder"
+  ],
+  "curry leaves": [
+    "curry leaves"
+  ]
+}
